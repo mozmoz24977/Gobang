@@ -1,0 +1,19 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/Menu/Menu",
+        "pages/Player_VS_AI/Player_VS_AI",
+        "pages/Player_VS_Player/Player_VS_Player"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#ff7733",
+        "navigationBarTitleText": "欢乐五子棋",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json",
+    "usingComponents": {
+        "i-button": "./dist/button/index"
+    }
+}

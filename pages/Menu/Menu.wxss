@@ -1,0 +1,21 @@
+/* pages/MainPage/MainPage.wxss */
+.background{
+  background-color:green;
+}
+.button-top{
+  width: 200px!important;
+  
+  font-size: 20px;
+  background-color: green;
+  color: rgb(255, 239, 215);
+  box-shadow: gray 5px 5px 10px;
+}
+.button-in{
+  width: 200px!important;
+  margin-top: 50px;
+  font-size: 20px;
+  background-color: green;
+  color: rgb(255, 239, 215);
+  box-shadow: gray 5px 5px 10px;
+}
+
